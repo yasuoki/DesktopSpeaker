@@ -10,7 +10,7 @@ It is an extremely small and simple speaker with only a 5cm full-range driver, b
 ## Parts Printing
 - Layer height 0.3mm, Extrusion width 0.6mm, Wall count 3, Top/Bottom layers 4, Infill 75%.
 - Do not require support.
-- To use matte PLA, PC-CF, or other filaments with minimal unnecessary resonance.
+- To reduce unwanted resonance, please use matte PLA, PC-CF, or similar filaments.
 
 ## BOM
 - Scan-Speak 5F/8422T01 Full-range driver x2
