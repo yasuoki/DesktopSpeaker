@@ -1,6 +1,6 @@
 # DesktopSpeaker
 This is a desktop speaker designed for use with PCs.
-It is an extremely small and simple speaker with only a 5cm full-range driver, but it produces a very high-quality sound.
+It is an extremely small and simple speaker with only a 5cm full-range driver, but it produces a high-quality sound.
 
 <img src="fig1.jpg" width="70%"><br>
 <img src="fig2.jpg" width="70%"><br>
