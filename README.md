@@ -1,4 +1,4 @@
-# DesktopSpeaker
+# Desktop Speaker
 This is a desktop speaker designed for use with PCs.
 It is an extremely small and simple speaker with only a 5cm full-range driver, but it produces a high-quality sound.
 
